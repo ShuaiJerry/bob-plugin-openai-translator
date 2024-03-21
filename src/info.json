@@ -1,6 +1,6 @@
 {
-  "identifier": "Shuaijerry.claude.translator",
-  "version": "2.2.4",
+  "identifier": "shuaijerry.claude.translator",
+  "version": "0.0.1",
   "category": "translate",
   "name": "Claude Translator",
   "summary": "GPT powered translator",
